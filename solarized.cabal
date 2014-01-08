@@ -3,13 +3,15 @@
 
 name:                solarized
 version:             0.1.0.0
--- synopsis:            
--- description:         
+synopsis:            Solarized colours
+description:         Solarized colour values
+		     .
+		     <http://ethanschoonover.com/solarized>
 license:             BSD3
 license-file:        LICENSE
 author:              Anton Nikishaev
 maintainer:          me@lelf.lu
--- copyright:           
+copyright:           2014 (c) Antonio Nikishaev
 category:            Graphics
 build-type:          Simple
 -- extra-source-files:  
