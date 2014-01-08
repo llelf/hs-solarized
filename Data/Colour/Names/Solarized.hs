@@ -1,8 +1,9 @@
 {-# LANGUAGE Safe #-}
-module Data.Colour.Solarized (base03,base02,base01,base00,
-                              base0,base1,base2,base3,
-                              yellow,orange,red,magenta,
-                              violet,blue,cyan,green) where
+module Data.Colour.Names.Solarized
+    (base03,base02,base01,base00,
+     base0,base1,base2,base3,
+     yellow,orange,red,magenta,
+     violet,blue,cyan,green) where
 
 import Data.Colour.SRGB
 

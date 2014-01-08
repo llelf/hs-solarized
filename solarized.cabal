@@ -18,7 +18,7 @@ build-type:          Simple
 cabal-version:       >=1.10
 
 library
-  exposed-modules:     Data.Colour.Solarized
+  exposed-modules:     Data.Colour.Names.Solarized
   -- other-modules:       
   -- other-extensions:    
   build-depends:       base >=4.6, colour >=2.3
