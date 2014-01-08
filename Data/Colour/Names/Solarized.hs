@@ -10,6 +10,9 @@ import Data.Colour.SRGB
 -- Tell me: why this is different?
 -- base00' = cieLAB d65 50 (-7) (-7)
 
+base03,base02,base01,base00,base0,base1,base2,base3,
+  yellow,orange,red,magenta,violet,blue,cyan,green :: (Ord a, Floating a) => Colour a
+
 base03    = sRGB24   0  43  54 
 base02    = sRGB24   7  54  66 
 base01    = sRGB24  88 110 117 
