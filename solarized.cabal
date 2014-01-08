@@ -12,7 +12,7 @@ license-file:        LICENSE
 author:              Anton Nikishaev
 maintainer:          me@lelf.lu
 copyright:           2014 (c) Antonio Nikishaev
-category:            Graphics
+category:            data, graphics
 build-type:          Simple
 -- extra-source-files:  
 cabal-version:       >=1.10
