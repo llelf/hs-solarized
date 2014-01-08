@@ -1,4 +1,4 @@
-
+{-# LANGUAGE Safe #-}
 module Data.Colour.Solarized (base03,base02,base01,base00,
                               base0,base1,base2,base3,
                               yellow,orange,red,magenta,
