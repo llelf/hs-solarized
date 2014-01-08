@@ -1,3 +1,1 @@
-Solarized colour values
-
-[](http://ethanschoonover.com/solarized)
+[Solarized](http://ethanschoonover.com/solarized) colour values
