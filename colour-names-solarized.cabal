@@ -1,7 +1,8 @@
-name:                solarized
-version:             0.1.0.0
-synopsis:            Solarized colours
-description:         Solarized colour values
+
+name:                colour-names-solarized
+version:             0.1.1.0
+synopsis:            Solarized colour values
+description:         “Solarized” palette colour values
 		     .
 		     <http://ethanschoonover.com/solarized>
 license:             BSD3
